@@ -1,9 +1,17 @@
 # sms bomber fuck your friends 😬😅
 
-`pkg install wget`
+*`apt update && upgrade`
 
-`pkg install python`
+*`pkg install wget`
 
-`wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py >> sms.py`
+*`pkg install python`
 
-`python sms.py`
+*`wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py >> sms.py`
+
+*`python sms.py`
+
+# one click install 
+
+```
+apt update && upgrade ; pkg install wget ; pkg install python ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py >> sms.py ; python sms.py
+```
