@@ -2,9 +2,13 @@
 
 # fuck your friends 😬😅
 
-*`apt update && upgrade`
+* `apt update && upgrade`
 
-*`pkg install wget`
+* `pkg install wget`
+
+* `pip2 install requests`
+
+* `pip2 install mechanize`
 
 *`pkg install python`
 
