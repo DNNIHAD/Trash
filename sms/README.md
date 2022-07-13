@@ -19,5 +19,5 @@
 # one click install 
 
 ```
-apt update && upgrade ; pkg install wget ; pkg install python ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py ; python sms.py
+apt update && upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install wget  ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py ; python sms.py
 ```
