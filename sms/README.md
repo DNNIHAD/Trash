@@ -10,11 +10,11 @@
 
 * `pip2 install mechanize`
 
-*`pkg install python`
+* `pkg install python`
 
-*`wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py`
+* `wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py`
 
-*`python sms.py`
+* `python sms.py`
 
 # one click install 
 
