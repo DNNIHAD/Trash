@@ -1,4 +1,6 @@
-# sms bomber fuck your friends 😬😅
+# Normal sms bomber
+
+# fuck your friends 😬😅
 
 *`apt update && upgrade`
 
