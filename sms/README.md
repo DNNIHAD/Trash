@@ -2,24 +2,27 @@
 
 # fuck your friends 😬😅
 
-* `apt update && upgrade`
+* `apt update && upgrade -y`
+
+* `pkg install python -y`
 
 * `pkg install wget`
 
 * `pip install lolcat`
 
-* `pip2 install requests`
+* `pkg install figlet -y`
 
-* `pip2 install mechanize`
+* `pip install mechanize`
 
-* `pkg install python`
+* `pip install requests`
 
 * `wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py`
+
 
 * `python sms.py`
 
 # one click install 
 
 ```
-apt update && upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ; pkg install wget  ; cd $HOME ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py ; python sms.py
+apt update && upgrade ; pkg install python ; pkg install python2 ; pkg install figlet -y ; pip install lolcat ; pip install requests ; pip install mechanize ; pkg install wget  ; cd $HOME ; wget https://raw.githubusercontent.com/DNNIHAD/Trash/main/sms/sms.py ; python sms.py
 ```
