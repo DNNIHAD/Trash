@@ -6,6 +6,8 @@
 
 * `pkg install wget`
 
+* `pip install lolcat`
+
 * `pip2 install requests`
 
 * `pip2 install mechanize`
