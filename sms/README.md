@@ -4,6 +4,7 @@
 # Fuck your friends 😬😅
 
 <br><a href="#"><img src="https://i.ibb.co/wScHWQG/smsbombydn.jpg"></a><br>
+<br><a href="#"><img src="https://i.ibb.co/K69QGZ5/smsbombydn1.jpg"></a><br>
 ## WAITING :
 <br>
 
