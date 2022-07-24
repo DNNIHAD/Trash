@@ -1,3 +1,8 @@
+## WAITING :
+
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/dnnihad/count.svg)
 # Normal sms bomber
 
 # fuck your friends 😬😅
