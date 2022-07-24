@@ -1,11 +1,15 @@
-## WAITING :
 
+# SmS Bomber
+
+# Fuck your friends 😬😅
+
+<br><a href="#"><img src="https://i.ibb.co/wScHWQG/smsbombydn.jpg"></a><br>
+## WAITING :
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/dnnihad/count.svg)
-# Normal sms bomber
 
-# fuck your friends 😬😅
+## Install & Run
 
 * `apt update && upgrade -y`
 
